@@ -99,7 +99,6 @@
 				TargetAttributes = {
 					2959735F1DD1043500A6A697 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 5L9GVSQ9KN;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -265,7 +264,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5L9GVSQ9KN;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Rollerball/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.elon.cs.mobile.Rollerball;
@@ -278,7 +277,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5L9GVSQ9KN;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Rollerball/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.elon.cs.mobile.Rollerball;
